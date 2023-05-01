@@ -4,7 +4,7 @@
 	 * is written by mbah
 	 * Return: 0
 	 */
-
+/* This program demonstrates the usage of the putchar function */
 
 	int main(void)
 	{
